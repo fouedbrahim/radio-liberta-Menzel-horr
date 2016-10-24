@@ -1,0 +1,21 @@
+/**********************************
+     Quiz
+**********************************/
+
+	.wrong_answer{
+		background: #e85356;
+		border: 1px solid green;
+		color:white;
+		padding:10px;
+	}
+	.correct_answer{
+		background:#53E2E8;
+		border:1px solid orange;
+	}
+	label{
+		display:block;
+	}
+	#reload_quiz{
+		float:right;
+		display:none;
+	}
